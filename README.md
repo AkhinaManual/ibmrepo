@@ -1,2 +1,2 @@
 # ibmrepo
-This repository contains links to my IBM Data Science Professional Certifications Projects
+This repository contains links to my IBM Data Science Professional Certifications Projects.
